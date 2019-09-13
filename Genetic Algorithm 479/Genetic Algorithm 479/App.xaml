@@ -1,7 +1,0 @@
-﻿<Application
-    x:Class="Genetic_Algorithm_479.App"
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:Genetic_Algorithm_479">
-
-</Application>
